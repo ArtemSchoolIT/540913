@@ -3,6 +3,7 @@ from PyQt5.QtWidgets import QApplication, QWidget,  QPushButton, QLabel, QVBoxLa
 from instr import *
 from final_win import *
 
+
 class TextWin(QWidget):
     def __init__(self):
         super().__init__()
